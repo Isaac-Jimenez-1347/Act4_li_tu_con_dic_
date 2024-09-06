@@ -1,20 +1,22 @@
-# ejemplo de uso de lista
-misnovias = ["Mayra", "Angelica", "Garces"]
-misnumeros = [666, 69, 4]
-print(misnovias)
-# mostrando a sus novios
-print(misnumeros )
-# mostrando mis numeros
-print("----accediendo a los elementos de la lista----")
-print(misnovias [1])
-if "Mayra" in misnovias:
-    print("Si, 'Mayra' esta en la lista de sus novios") 
+# ejemplo de uso de listas
+misnovios=["Alexis", "Fernando", "Mendoza"]
+misnumeros=[656,269,5250]
+#Mostrando mis novios
+print(misnovios)
+#Mostrando mis numeros
+print(misnumeros)
+print("---accediendo a los elementos de la lista---")
+print(misnovios[-2])
+if "moreno" in misnovios:
+    print("si, moreno esta en la lista de mis novios")
 else:
-    print("no tienes esa novia mi niño")
-    
-nnovias = len(misnovias)
-print(f"numero de novias = {nnovias}")
-posicion=0
-for michavalilla in misnovias:
-    print(posicion," ",michavalilla)
-    posicion= posicion +1
+    print("chale no eres mi novio")
+print("numero de novios")
+Nnovios=len(misnovios)
+print(f"numero de novios {Nnovios}")
+print("ciclo de for en listas")
+posicion = 0
+for medianaranja in misnovios:
+    print(posicion, " ", medianaranja)
+    posicion=posicion+1
+
