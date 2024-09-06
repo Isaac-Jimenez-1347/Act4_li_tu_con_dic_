@@ -19,3 +19,21 @@ Act4 trabajando con listas, tuplas, conjuntos y diccionarios
 
 ![image](https://github.com/user-attachments/assets/22143cb8-aaa9-4e30-8b2c-b1aa20a14eb1)
 
+## CONJUNTOS
+- CODIGO
+
+  ![image](https://github.com/user-attachments/assets/d5899174-b647-4b8c-a6e2-b117f413d3e5)
+
+- RESULTADO
+
+![image](https://github.com/user-attachments/assets/e58c4504-3bd2-4ba5-8462-fc6a3f3a9367)
+
+## DICCIONARIO
+- Codigo
+
+![image](https://github.com/user-attachments/assets/6b1ddd4f-5fe8-4fc5-bee4-9a384bc89b54)
+
+- resultado
+
+![image](https://github.com/user-attachments/assets/492ff2f7-b531-433a-a3d5-d35bc0737765)
+
