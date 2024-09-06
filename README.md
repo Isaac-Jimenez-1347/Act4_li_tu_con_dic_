@@ -26,7 +26,8 @@ Act4 trabajando con listas, tuplas, conjuntos y diccionarios
 
 - RESULTADO
 
-![image](https://github.com/user-attachments/assets/e58c4504-3bd2-4ba5-8462-fc6a3f3a9367)
+![image](https://github.com/user-attachments/assets/424a37bb-92e7-4b7b-be7b-5e960dddb0c0)
+
 
 ## DICCIONARIO
 - Codigo
